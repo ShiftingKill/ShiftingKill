@@ -67,8 +67,8 @@ Developer of **PhatLoots: Advanced Loot Tables**, a Minecraft server plugin for 
 ## 🗺️ From the raids
 
 <p align="center">
-  <a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://shiftingkill.github.io/escape-from-tarkraft/img/map-shoreline.jpg" width="32%" alt="Tarkraft: Shoreline map"></a>
-  <a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://shiftingkill.github.io/escape-from-tarkraft/img/map-factory.jpg" width="32%" alt="Tarkraft: Factory map"></a>
+  <a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://shiftingkill.github.io/escape-from-tarkraft/img/map-interchange.jpg" width="32%" alt="Tarkraft: Interchange map"></a>
+  <a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://shiftingkill.github.io/escape-from-tarkraft/img/extract.jpg" width="32%" alt="Tarkraft: extraction zone"></a>
   <a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://shiftingkill.github.io/escape-from-tarkraft/img/the-hideout.jpg" width="32%" alt="Tarkraft: the hideout"></a>
 </p>
 
