@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="ShiftingKill: Computer Engineer, Game and Tools Developer" width="100%">
 
-<a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E0A526&center=true&vCenter=true&width=640&lines=Building+a+Tarkov-style+extraction+shooter+in+Minecraft;Raid.+Loot.+Extract.+Repeat.;Shipping+Windows+tools+to+the+Microsoft+Store;A+fancy+profile+is+not+a+reflection+of+work+ethic." alt="Typing intro"></a>
+<a href="https://shiftingkill.github.io/escape-from-tarkraft/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E0A526&center=true&vCenter=true&width=720&lines=Building+a+Tarkov-style+extraction+shooter+in+Minecraft;Raid.+Loot.+Extract.+Repeat.;Shipping+Windows+tools+to+the+Microsoft+Store;A+fancy+profile+is+not+a+reflection+of+work+ethic." alt="Typing intro"></a>
 
 <a href="https://modrinth.com/modpack/escape-from-tarkraft"><img src="https://img.shields.io/modrinth/dt/escape-from-tarkraft?style=for-the-badge&logo=modrinth&logoColor=white&label=Modrinth&color=1bd96a" alt="Modrinth downloads"></a>
 <a href="https://www.curseforge.com/minecraft/modpacks/escape-from-tarkraft"><img src="https://img.shields.io/curseforge/dt/886757?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=f16436" alt="CurseForge downloads"></a>
