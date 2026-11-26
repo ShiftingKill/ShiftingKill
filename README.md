@@ -49,10 +49,13 @@ Futures trading research and automation for NinjaTrader: custom indicators, orde
 </td>
 <td width="50%" valign="top">
 
-### 🎁 PhatLoots
-Developer of **PhatLoots: Advanced Loot Tables**, a Minecraft server plugin for configurable loot chests and drop tables.
+### 🎁 [PhatLoots](https://github.com/Pwing-Minecraft/PhatLoots)
+Developer of **PhatLoots: Advanced Loot Tables**, a Minecraft server plugin for configurable loot chests and drop tables, maintained under the [**Pwing Minecraft**](https://github.com/Pwing-Minecraft) dev team.
 
 `Java` · `Bukkit / Spigot`
+
+<a href="https://github.com/Pwing-Minecraft/PhatLoots"><img src="https://img.shields.io/github/stars/Pwing-Minecraft/PhatLoots?style=flat-square&logo=github&label=PhatLoots&color=e0a526" alt="PhatLoots stars"></a>
+<a href="https://github.com/Pwing-Minecraft"><img src="https://img.shields.io/badge/Pwing-Dev%20Team-e0a526?style=flat-square&logo=github" alt="Pwing Minecraft dev team"></a>
 
 </td>
 </tr>
