@@ -24,7 +24,9 @@
 
 `Java` · `Fabric 1.21.11` · `Multiplayer` · `Custom maps`
 
-[Modpack](https://modrinth.com/modpack/escape-from-tarkraft) · [Client mod](https://modrinth.com/mod/escape-from-tarkraft-mod) · [Server](https://modrinth.com/server/escape-from-tarkraft-online) · [CurseForge](https://www.curseforge.com/minecraft/modpacks/escape-from-tarkraft)
+[Modpack](https://modrinth.com/modpack/escape-from-tarkraft) · [Client mod](https://modrinth.com/mod/escape-from-tarkraft-mod) · [Server](https://modrinth.com/server/escape-from-tarkraft-online) · [CurseForge](https://www.curseforge.com/minecraft/modpacks/escape-from-tarkraft) · [Jar releases](https://github.com/ShiftingKill/Tarkraft-Releases/releases)
+
+<a href="https://github.com/ShiftingKill/Tarkraft-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/ShiftingKill/Tarkraft-Releases?style=flat-square&logo=github&label=latest%20mod%20release&color=e0a526" alt="Latest Escape From Tarkraft mod release"></a>
 
 </td>
 <td width="50%" valign="top">
